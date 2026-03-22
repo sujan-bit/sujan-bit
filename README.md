@@ -1,79 +1,70 @@
 <h1 align="center">Hi 👋, I'm Sujan Shrestha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+MySQL;Learning+OOP+and+System+Design;Future+Computer+Science+Student&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Java+Developer;Python+Programmer;Learning+OOP+and+System+Design;Future+Computer+Science+Student&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🎥 Coding Banner
 
-🎓 Science student interested in **Computer Science and IT**  
-💻 Currently learning **Java, Python, SQL, and Software Development**  
-🏋️ Built a **Gym Equipment Management System using JavaFX + MySQL**  
-🤖 Created a **Python Voice Assistant**  
-🚀 Interested in **Software Engineering, System Design, and Development**
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
 
 ---
 
-## 🚀 My Projects
+# 👨‍💻 About Me
+
+🎓 Science student passionate about **Computer Science**  
+💻 Learning **Java, Python, SQL, and Software Development**  
+🏋️ Built a **Gym Equipment Management System (Java + MySQL)**  
+🚕 Developed a **Taxi Booking System (Python)**  
+🤖 Created a **Voice Assistant**
+
+---
+
+# 🚀 Featured Projects
 
 ### 🏋️ Gym Equipment Management System
-A desktop application built using **Java, JavaFX, and MySQL** to manage gym equipment efficiently.
+JavaFX desktop system for managing gym equipment.
 
-Features:
-- Equipment tracking
-- Staff management
-- Database integration
-- Inventory management
+Tech Stack:
+- Java
+- JavaFX
+- MySQL
 
 ---
 
-### 🚕 Taxi Booking System (Python)
-
-Python-based simulation of a taxi booking system.
+### 🚕 Taxi Booking System
+Python simulation of taxi booking.
 
 Features:
-- Ride booking
-- Customer handling
+- Customer booking
 - Fare calculation
+- Driver assignment
 
 ---
 
-### 🎤 Voice Assistant
-
-A Python voice assistant capable of:
-
+### 🎤 Python Voice Assistant
+Voice assistant capable of:
 - Opening applications
 - Searching Google
 - Opening YouTube
-- Running system commands
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,eclipse,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -89,13 +80,13 @@ A Python voice assistant capable of:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SujanShrestha&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SujanShrestha&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -105,11 +96,37 @@ A Python voice assistant capable of:
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SujanShrestha/SujanShrestha/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🧊 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujanShrestha&theme=tokyonight">
+</p>
+
+---
+
+# 🎧 Spotify
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID&cover_image=true&theme=novatorem"/>
+
+</p>
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SujanShrestha&label=Profile%20views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SujanShrestha&style=for-the-badge"/>
 
 </p>
 
@@ -119,7 +136,7 @@ A Python voice assistant capable of:
 
 <p align="center">
 
-<a href="https://github.com/sujan-bit">
+<a href="https://github.com/SujanShrestha">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -127,4 +144,4 @@ A Python voice assistant capable of:
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ Thanks for visiting my profile!
