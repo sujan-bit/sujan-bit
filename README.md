@@ -119,7 +119,7 @@ A Python voice assistant capable of:
 
 <p align="center">
 
-<a href="https://github.com/SujanShrestha">
+<a href="https://github.com/sujan-bit">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
