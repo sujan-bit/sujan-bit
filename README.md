@@ -68,9 +68,9 @@ Voice assistant capable of:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujanShrestha&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujan-bit&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanShrestha&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-bit&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -80,7 +80,7 @@ Voice assistant capable of:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SujanShrestha&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=sujan-bit&theme=tokyonight"/>
 
 </p>
 
@@ -90,7 +90,7 @@ Voice assistant capable of:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujanShrestha&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-bit&theme=tokyo-night"/>
 
 </p>
 
@@ -99,7 +99,7 @@ Voice assistant capable of:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SujanShrestha/SujanShrestha/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/sujan-bit/sujan-bit/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -107,7 +107,7 @@ Voice assistant capable of:
 # 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujanShrestha&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujan-bit&theme=tokyonight">
 </p>
 
 ---
@@ -126,7 +126,7 @@ Voice assistant capable of:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SujanShrestha&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sujan-bit&style=for-the-badge"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Voice assistant capable of:
 
 <p align="center">
 
-<a href="https://github.com/SujanShrestha">
+<a href="https://github.com/sujan-bit">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
